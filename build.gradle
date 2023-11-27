@@ -19,7 +19,7 @@ gatling {
         // Enterprise Self-Hosted configuration reference: https://gatling.io/docs/gatling/reference/current/extensions/gradle_plugin/#working-with-gatling-enterprise-self-hosted
     }
     dependencies {
-        gatling 'org.apache.commons:commons-lang3:3.13.0'
+        gatling 'org.apache.commons:commons-lang3:3.14.0'
     }
 
 }
